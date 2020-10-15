@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "next-firebase-523f6",
+    "production": "next-firebase-523f6"
+  }
+}
